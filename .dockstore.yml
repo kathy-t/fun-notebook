@@ -1,4 +1,4 @@
 version: 1.2
 notebooks:
   - name: fun-notebook
-    path: /notebooks/fun_notebook.ipynb
+    path: /fun_notebook.ipynb
